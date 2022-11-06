@@ -8,7 +8,7 @@ Presenting The Dumpsters - an automated garbage diposal system built with an aim
 ## PROBLEM STATEMENT
 Every year, approximately 70 million metrics of municipal solid waste is generated, out of which only 20% is recyclable and the rest ends up in landfills. Scrap dealers purchase waste from the user at a low price, who later sell it to the middlemen at a price higher than before. This long chain of transferring the waste from user to the recycling center involves too many processes, and the user ends up earning a profit lesser than he/she should get.
 
-<img src="https://user-images.githubusercontent.com/78029571/200156715-6a146ab3-9604-4ff5-ae26-00fdaa3b91ad.PNG" alt="logo" width="400" height="200">
+<img src="https://user-images.githubusercontent.com/78029571/200156715-6a146ab3-9604-4ff5-ae26-00fdaa3b91ad.PNG" alt="logo" width="700" height="350">
 
 ## SOLUTION 
 Our model focuses on an efficient and automated garbage disposal system which can convince the user to sell their waste directly to the waste collectors for proper handling while giving them the profit that they should get, without the involvement of middlemen in between, by determining the waste classification and cost of the waste product. The main selling point of our website is that we will eradicate the middleman from the chain and handover the earned profit directly to the user. Everytime you recycle and schedule a pickup you earn redeemable reward points.
