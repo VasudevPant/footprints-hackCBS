@@ -54,7 +54,7 @@ Jupyter
 , VS Code
 
 ## PRESENTATION LINK
-
+https://drive.google.com/file/d/1kmIVLkudqpp7OzkNBitQpAF00_wmXGPs/view?usp=sharing
 
 ## TEAM FOOTPRINTS
 Vasudev Pant (Team Leader)
