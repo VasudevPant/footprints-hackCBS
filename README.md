@@ -31,6 +31,8 @@ Our model focuses on an efficient and automated garbage disposal system which ca
 
 <img src="https://user-images.githubusercontent.com/78029571/200156822-fdf85b37-54b8-49c2-a2d5-463b85756bb6.PNG" alt="logo" width="700" height="320">
 
+<img src="https://user-images.githubusercontent.com/78029571/200157095-5a4c2b24-aa8d-4a84-9d67-5ba66255ee95.PNG" alt="logo" width="700" height="320">
+
 The main selling point of our website is that we will eradicate the middleman from the chain and handover the earned profit directly to the user. Everytime you recycle and schedule a pickup you earn redeemable reward points.
 
 <img src="" alt="logo" width="700" height="320">
