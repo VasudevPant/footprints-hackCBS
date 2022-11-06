@@ -31,7 +31,10 @@ VS Code
 
 ## TEAM FOOTPRINTS
 Vasudev Pant (Team Leader)
+
 Deepanshi Jain
+
 Tavleen Nagi
+
 Samridhi Kurar
 
