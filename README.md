@@ -19,16 +19,17 @@ Our model focuses on an efficient and automated garbage disposal system which ca
 
 2. Schedule waste pickup based on location of user and according to users' convenience.
 
-<img src="https://user-images.githubusercontent.com/78029571/200156784-374d1bf9-c47d-49bd-828e-8710fb0e240a.PNG" alt="logo" width="700" height="320">
-
-<img src="https://user-images.githubusercontent.com/78029571/200156822-fdf85b37-54b8-49c2-a2d5-463b85756bb6.PNG" alt="logo" width="700" height="320">
-
 3. Waste is responsibly recycled at authorized centers.
 
 4. Every time you recycle and schedule a pickup you earn redeemable reward points
 
-<img src="https://user-images.githubusercontent.com/78029571/200156870-982c0b03-a782-4b8f-8081-406636f84d66.PNG" alt="logo" width="700" height="320">
-![6](https://user-images.githubusercontent.com/78029571/200156890-028e60bd-d781-48f0-9b7c-494d4dca354b.PNG)
+<img src="https://user-images.githubusercontent.com/78029571/200156784-374d1bf9-c47d-49bd-828e-8710fb0e240a.PNG" alt="logo" width="700" height="320">
+
+<img src="https://user-images.githubusercontent.com/78029571/200156822-fdf85b37-54b8-49c2-a2d5-463b85756bb6.PNG" alt="logo" width="700" height="320">
+
+<img src="https://user-images.githubusercontent.com/78029571/200157054-1cce475e-410f-439a-b086-61a4f1138be3.PNG" alt="logo" width="700" height="320">
+
+<img src="https://user-images.githubusercontent.com/78029571/200156822-fdf85b37-54b8-49c2-a2d5-463b85756bb6.PNG" alt="logo" width="700" height="320">
 
 The main selling point of our website is that we will eradicate the middleman from the chain and handover the earned profit directly to the user. Everytime you recycle and schedule a pickup you earn redeemable reward points.
 
