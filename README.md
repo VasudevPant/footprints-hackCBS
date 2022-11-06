@@ -40,18 +40,18 @@ The main selling point of our idea is that we will eradicate the middleman from 
 ## TECH STACK
 ### Modules/Libraries
 Numpy, pandas
-MATPLOTLIB
-Tensorflow, keras
+, MATPLOTLIB
+, Tensorflow, keras
 
 ### Languages
 Python
-HTML
-CSS
-JAVASCRIPT
+, HTML
+, CSS
+, JAVASCRIPT
 
 ### Platforms
 Jupyter 
-VS Code
+, VS Code
 
 ## PRESENTATION LINK
 
