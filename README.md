@@ -5,3 +5,19 @@ Presenting The Dumpsters - an automated garbage diposal system built with an aim
 
 <img src="https://user-images.githubusercontent.com/78029571/200155987-b40d3f6a-1512-479f-a624-980f450ca4c6.png" alt="logo" width="200" height="200">
 
+### TECH STACK
+## Modules/Libraries
+Numpy, pandas
+MATPLOTLIB
+Tensorflow, keras
+
+## Languages
+Python
+HTML
+CSS
+JAVASCRIPT
+
+## Platforms
+Jupyter 
+VS Code
+
