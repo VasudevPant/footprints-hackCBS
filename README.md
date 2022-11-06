@@ -1,5 +1,5 @@
 # HACK CBS 5.0
-##THE DUMPSTERS: 
+## THE DUMPSTERS: 
 From waste to worth
 
 Presenting The Dumpsters - an automated garbage diposal system built with an aim to convince the users to directly sell scrap to the waste collectors for proper management. The main selling point of our website and model is to eradicate the involvement of middlemen from the chain of waste disposal and handover the earned profit directly to the user.
